@@ -1,1 +1,1 @@
-fix non-coco val
+Remove unused variables (#8511)
